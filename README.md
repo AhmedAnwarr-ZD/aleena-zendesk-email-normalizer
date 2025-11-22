@@ -61,6 +61,7 @@ Protected by **SHARED_KEY** as URL query parameter.
 - SHARED_KEY
 
 ### Business Impact (Estimate)
+- Average Handling Time (AHT) decreased from 10 min to 3 min
 - 20–30% reduction in “wrong user / wrong profile” incidents
 - Cleaner reporting: tickets per customer now more accurate
 - Fewer manual merges by CS leads

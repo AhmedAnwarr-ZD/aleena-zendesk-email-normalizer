@@ -42,13 +42,12 @@ Google Apps Script webhook that:
 
 ## Webhook Contract
 
-Expected JSON:
+### Expected JSON:
 
-json
 {
-  "ticket_id": 12345,
-  "requester_id": 67890,
-  "comment": "… customer text with email foo@bar.com …"
+   "ticket_id": 12345,
+   "requester_id": 67890,
+   "comment": "… customer text with email foo@bar.com …"
 }
 
 Protected by **SHARED_KEY** as URL query parameter.
